@@ -7,6 +7,15 @@ html {
   overflow: hidden;
 }
 
+body {
+
+	background-image: url("../medias/logos/logo_small.png");
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
 img{
   display: block;
   margin: auto;
