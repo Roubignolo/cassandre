@@ -30,7 +30,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-                        <h2 class="pull-left">Agences</h2>
+                        <h2 class="pull-left">Agences totototototo</h2>
                         <a href="create.php" class="btn btn-success pull-right">Ajouter une nouvelle agence</a>
                     </div>
                     <?php
